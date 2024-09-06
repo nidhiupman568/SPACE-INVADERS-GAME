@@ -2,6 +2,8 @@
 
 🎉Welcome to my Space Invaders game! 🎮 This project brings the classic arcade experience to life using 🌐 HTML, 🎨 CSS, and 💻 JavaScript with HTML5 Canvas. 🌟
 
+Project Demo: https://nidhiupman568.github.io/SPACE-INVADERS-GAME/
+
 ## Features 🌟
 
 - **Game Setup 🕹️**: Built using HTML5 Canvas for smooth graphics rendering. 🎨
